@@ -1,0 +1,30 @@
+[
+{
+"catId":1,
+"name":"mùa xuân",
+"image":"a.jpeg"
+
+},
+
+{
+"catId":2,
+"name":"mùa hạ",
+"image":"d.jpg"
+
+},
+
+{
+"catId":3,
+"name":"mùa thu",
+"image":"c.jpg"
+
+},
+
+{
+"catId":4,
+"name":"mùa đông",
+"image":"b.jpg"
+
+}
+
+]
